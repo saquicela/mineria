@@ -1,4 +1,4 @@
-Estado-servicio;Año;Clon;pH;N_suelo;C_suelo;P_suelo;K_suelo;Ca_suelo;Mg_suelo;S_suelo;Al_suelo;B_suelo;Cu_suelo;Fe_suelo;Mn_suelo;Mo (10^-3)_suelo;Zn_suelo;Rendimiento absoluto;N_foliar;C_foliar;P_foliar;K_foliar;Ca_foliar;Mg_foliar;S_foliar;Na_foliar;Al_foliar;B_foliar;Cu_foliar;Fe_foliar;Mn_foliar;Mo_foliar;Zn_foliar
+Estado-servicio;Anio;Clon;pH;N_suelo;C_suelo;P_suelo;K_suelo;Ca_suelo;Mg_suelo;S_suelo;Al_suelo;B_suelo;Cu_suelo;Fe_suelo;Mn_suelo;Mo (10^-3)_suelo;Zn_suelo;Rendimiento absoluto;N_foliar;C_foliar;P_foliar;K_foliar;Ca_foliar;Mg_foliar;S_foliar;Na_foliar;Al_foliar;B_foliar;Cu_foliar;Fe_foliar;Mn_foliar;Mo_foliar;Zn_foliar
 Meanja;1993;PR 107;5;0,18;2,08;3,4;224;798;32;18;158;0,27;3,1;33;12;4;1,6;1432;3;49,7;2471;13072;8803;3173;2583;67;239;22;16;222;343;0,33;47
 Meanja;1995;PR 107;5,5;0,21;2,41;3,5;328;875;48;17;192;0,29;2;52;22;5;12;1543;2,8;49,9;2648;14969;9355;3185;2441;67;242;33;14;229;326;0,27;64
 Meanja;1996;PR 107;4,9;0,08;0,86;7,7;188;360;28;16;127;0,32;2,6;45;11;6;3,2;1300;2,9;49,8;1945;8419;8852;3958;2261;64;227;15;13;218;276;0,28;49
